@@ -1,2 +1,2 @@
 # Site-de-Not-cia
-Esse site foi criado ultilizando o Bootstrap
+O site fala sobre notícias de jogos, isso foi um projeto da faculdade. Além disso, esse site foi criado ultilizando o Bootstrap
